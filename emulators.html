@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script language="JavaScript">
+     
+        
+        var password;
+        var pass1="GHOT";
+        
+        password=prompt('Please enter your password to view this page!',' ');
+        
+        if (password==pass1)
+          alert('Password Correct! Click OK to enter!');
+        else
+           {
+            window.location.href="/emulators.html";
+            }
+        
+        //-->
+        </script>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emulators</title>
+    <link rel="stylesheet" href="estyle.css">
+</head>
+<body>
+
+<h1 class="choice">Choose an Emulator</h1>
+
+
+
+
+<center>
+<a href="/webretro/index.html?core=mgba"><img src="images/gba.png" alt=""></a>
+<a href="/webretro/index.html?core=genesis_plus_gx"><img src="images/genesis.png" alt=""></a>
+<a href="/webretro/index.html?core=mupen64plus_next"><img src="images/n64.png" alt=""></a>
+<a href="/webretro/index.html?core=nestopia"><img src="images/nes.png" alt=""></a>
+<a href="/webretro/index.html?core=snes9x"><img src="images/snes.png" alt=""></a>
+<a href="/webretro/index.html?core=autodetect"><img src="images/autodetect.png" alt=""></a>
+</center>
+</body>
+</html>

@@ -1,0 +1,37 @@
+.title {
+    text-align: center;
+    padding: 10pxpx;
+    font-size: 35px;
+
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+
+}
+
+.logo-text  {
+ text-align: center;
+}
+
+body {
+    background-color: #7df09b;
+    color: white;
+    font-family: WalkTheMoon;
+    
+}
+
+.credit-text {
+
+    text-align: center;
+    color: white;
+    
+}
+
+@font-face {
+    font-family: WalkTheMoon;
+    src: url('walkthemoon.ttf');
+}

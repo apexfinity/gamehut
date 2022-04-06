@@ -1,0 +1,42 @@
+.title {
+  font-size: 75px;
+    color: white;
+    font-family: WalkTheMoon;
+    text-align: center;
+    padding: 15px;
+}
+
+@font-face {
+    font-family: WalkTheMoon;
+    src: url('walkthemoon.ttf');
+}
+
+body {
+background-color: #7df09b;
+font-family: WalkTheMoon;
+color:white;
+}
+
+a {
+    color: #0d4175;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 18px;
+    
+}
+
+img {
+    width: 137px;
+    border-radius: 15px;
+    padding: 6px;    
+    margin-right: auto;
+    margin-left: auto;
+    float: none;
+
+    
+    
+}
+
+.menubar {
+    text-align: center;
+}

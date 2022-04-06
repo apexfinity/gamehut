@@ -1,0 +1,8 @@
+1. Go the Flash File Google Drive and Download it.
+2. Go to your file library and extract it if you need to.
+3. Open the Flash Emulator and click "Choose File"
+4. Open your flash folder and choose whatever Game (.swf) you want to play.
+
+Note: This can work with any .swf file you download.
+
+If you are on personal devices, I recommend downloading flash games from archive.org
